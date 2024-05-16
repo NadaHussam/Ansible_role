@@ -1,0 +1,4 @@
+- name: Ansible Playbook for Web Server Setup
+  hosts: webserver
+  roles:
+    - web
