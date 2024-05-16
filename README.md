@@ -42,3 +42,6 @@ To encrypt sensitive data (such as passwords), follow these steps:
      curl 172.17.0.2
      ```
    - Replace `172.17.0.2` with the actual IP address or hostname of your target host.
+  
+   ![image](https://github.com/NadaHussam/Ansible_role/assets/165591480/310a72f2-0b3f-41e0-956e-584aafa1570b)
+
