@@ -1,0 +1,7 @@
+package : nginx
+file_list:
+- file.css
+- file.js
+template_name: index.html.j2
+template_message: "welcome to NTI !"
+my_variable: "{{ lookup('file', 'password.yml') }}"
